@@ -41,3 +41,7 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"  
 ;
+
+body, #main, .sidebar, .footer, .author__urls-wrapper, h1, h2, h3, h4, h5, h6, p, a, li {
+    font-family: Georgia, serif !important;
+}
