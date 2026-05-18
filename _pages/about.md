@@ -12,8 +12,8 @@ Welcome! I am a Computer Science Ph.D. specializing in high-performance
 networking systems and large-scale internet measurement. My research sits
 at the intersection of systems programming and network protocol design,
 with a focus on building infrastructure that makes the internet faster
-and more transparent at scale. *I am currently looking for full-time
-industry positions in systems and networking engineering.*
+and more transparent at scale. **I am currently looking for full-time
+industry positions in systems and networking engineering.**
 
 I earned my Ph.D. in Computer Science from the
 [University *of* California, *Riverside*](https://www.ucr.edu) and my
