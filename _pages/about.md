@@ -8,21 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I am a Computer Science Ph.D. specializing in high-performance
+networking systems and large-scale internet measurement. My research sits
+at the intersection of systems programming and network protocol design,
+with a focus on building infrastructure that makes the internet faster
+and more transparent at scale.
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
+I earned my Ph.D. in Computer Science from the
+[University *of* California, *Riverside*](https://www.ucr.edu) and my
+B.S. in Computer Science and Technology from
+[Nanjing University](https://www.nju.edu.cn/en).
 My academic work has been [published](publications) in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+*Proceedings of the ACM on Measurement and Analysis of Computing Systems*
+(SIGMETRICS), among other venues. My [research](research) explores the
+performance and transparency of global internet infrastructure using a
+broad variety of methods such as high-concurrency network measurement,
+TCP/IP protocol analysis, BGP routing analysis, and large-scale systems
+engineering. I also work on client-side TCP acceleration, designing
+high-performance C++ datapaths that leverage socket-level primitives and
+congestion control optimizations to achieve significant throughput
+improvements in high-loss network environments — without requiring any
+changes to server-side infrastructure. I have [taught](teaching)
+operating systems, computer security, and data structures and algorithms
+at UC Riverside.
